@@ -1,0 +1,6 @@
+{
+  "name": "Consilium - Medical Discrepancy & Second Opinion Navigator",
+  "description": "A high-trust clinical advocacy platform helping patients navigate conflicting medical opinions, contradictory diagnoses, and divergent treatment plans with side-by-side comparison matrices, red-flag triage, and visit prep generators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
